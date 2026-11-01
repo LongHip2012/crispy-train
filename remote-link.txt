@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://described-tractor-counters-toxic.trycloudflare.com/vnc.html
+URL       : https://stages-smith-deny-pop.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-01 05:51:52
+Created   : 2026-11-01 11:27:45
 =======================================================
