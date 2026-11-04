@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://pdt-seeking-sufficiently-october.trycloudflare.com/vnc.html
+URL       : https://vsnet-rob-clinical-generated.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-03 17:44:09
+Created   : 2026-11-04 00:35:23
 =======================================================
